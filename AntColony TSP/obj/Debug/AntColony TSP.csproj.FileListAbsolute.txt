@@ -1,0 +1,10 @@
+C:\Users\karol\source\repos\AntColony TSP\MrówkowyKomiwojażer\bin\Debug\AntColonyTSP.exe.config
+C:\Users\karol\source\repos\AntColony TSP\MrówkowyKomiwojażer\bin\Debug\AntColonyTSP.exe
+C:\Users\karol\source\repos\AntColony TSP\MrówkowyKomiwojażer\bin\Debug\AntColonyTSP.pdb
+C:\Users\karol\source\repos\AntColony TSP\MrówkowyKomiwojażer\obj\Debug\AntColony TSP.csprojAssemblyReference.cache
+C:\Users\karol\source\repos\AntColony TSP\MrówkowyKomiwojażer\obj\Debug\AntColonyTSP.Form1.resources
+C:\Users\karol\source\repos\AntColony TSP\MrówkowyKomiwojażer\obj\Debug\AntColonyTSP.Properties.Resources.resources
+C:\Users\karol\source\repos\AntColony TSP\MrówkowyKomiwojażer\obj\Debug\AntColony TSP.csproj.GenerateResource.cache
+C:\Users\karol\source\repos\AntColony TSP\MrówkowyKomiwojażer\obj\Debug\AntColony TSP.csproj.CoreCompileInputs.cache
+C:\Users\karol\source\repos\AntColony TSP\MrówkowyKomiwojażer\obj\Debug\AntColonyTSP.exe
+C:\Users\karol\source\repos\AntColony TSP\MrówkowyKomiwojażer\obj\Debug\AntColonyTSP.pdb

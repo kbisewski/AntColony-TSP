@@ -1,0 +1,9 @@
+c:\users\karol\documents\visual studio 2015\Projects\MrówkowyKomiwojażer\MrówkowyKomiwojażer\bin\Debug\MrówkowyKomiwojażer.exe.config
+c:\users\karol\documents\visual studio 2015\Projects\MrówkowyKomiwojażer\MrówkowyKomiwojażer\bin\Debug\MrówkowyKomiwojażer.exe
+c:\users\karol\documents\visual studio 2015\Projects\MrówkowyKomiwojażer\MrówkowyKomiwojażer\bin\Debug\MrówkowyKomiwojażer.pdb
+c:\users\karol\documents\visual studio 2015\Projects\MrówkowyKomiwojażer\MrówkowyKomiwojażer\obj\Debug\MrówkowyKomiwojażer.csprojResolveAssemblyReference.cache
+c:\users\karol\documents\visual studio 2015\Projects\MrówkowyKomiwojażer\MrówkowyKomiwojażer\obj\Debug\MrówkowyKomiwojażer.Form1.resources
+c:\users\karol\documents\visual studio 2015\Projects\MrówkowyKomiwojażer\MrówkowyKomiwojażer\obj\Debug\MrówkowyKomiwojażer.Properties.Resources.resources
+c:\users\karol\documents\visual studio 2015\Projects\MrówkowyKomiwojażer\MrówkowyKomiwojażer\obj\Debug\MrówkowyKomiwojażer.csproj.GenerateResource.Cache
+c:\users\karol\documents\visual studio 2015\Projects\MrówkowyKomiwojażer\MrówkowyKomiwojażer\obj\Debug\MrówkowyKomiwojażer.exe
+c:\users\karol\documents\visual studio 2015\Projects\MrówkowyKomiwojażer\MrówkowyKomiwojażer\obj\Debug\MrówkowyKomiwojażer.pdb

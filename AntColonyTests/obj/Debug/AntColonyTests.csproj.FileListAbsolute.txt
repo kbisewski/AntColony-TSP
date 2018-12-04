@@ -1,0 +1,2 @@
+C:\Users\karol\source\repos\MrówkowyKomiwojażer\AntColonyTests\obj\Debug\AntColonyTests.csprojAssemblyReference.cache
+C:\Users\karol\source\repos\MrówkowyKomiwojażer\AntColonyTests\obj\Debug\AntColonyTests.csproj.CoreCompileInputs.cache

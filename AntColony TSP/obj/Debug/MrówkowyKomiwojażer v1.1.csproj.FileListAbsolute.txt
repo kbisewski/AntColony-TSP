@@ -1,0 +1,19 @@
+C:\Users\karol\Documents\Visual Studio 2015\Projects\MrówkowyKomiwojażer\MrówkowyKomiwojażer\bin\Debug\MrówkowyKomiwojażer.exe.config
+C:\Users\karol\Documents\Visual Studio 2015\Projects\MrówkowyKomiwojażer\MrówkowyKomiwojażer\bin\Debug\MrówkowyKomiwojażer.exe
+C:\Users\karol\Documents\Visual Studio 2015\Projects\MrówkowyKomiwojażer\MrówkowyKomiwojażer\bin\Debug\MrówkowyKomiwojażer.pdb
+C:\Users\karol\Documents\Visual Studio 2015\Projects\MrówkowyKomiwojażer\MrówkowyKomiwojażer\obj\Debug\MrówkowyKomiwojażer v1.1.csprojResolveAssemblyReference.cache
+C:\Users\karol\Documents\Visual Studio 2015\Projects\MrówkowyKomiwojażer\MrówkowyKomiwojażer\obj\Debug\MrówkowyKomiwojażer.Form1.resources
+C:\Users\karol\Documents\Visual Studio 2015\Projects\MrówkowyKomiwojażer\MrówkowyKomiwojażer\obj\Debug\MrówkowyKomiwojażer.Properties.Resources.resources
+C:\Users\karol\Documents\Visual Studio 2015\Projects\MrówkowyKomiwojażer\MrówkowyKomiwojażer\obj\Debug\MrówkowyKomiwojażer v1.1.csproj.GenerateResource.Cache
+C:\Users\karol\Documents\Visual Studio 2015\Projects\MrówkowyKomiwojażer\MrówkowyKomiwojażer\obj\Debug\MrówkowyKomiwojażer.exe
+C:\Users\karol\Documents\Visual Studio 2015\Projects\MrówkowyKomiwojażer\MrówkowyKomiwojażer\obj\Debug\MrówkowyKomiwojażer.pdb
+C:\Users\karol\source\repos\MrówkowyKomiwojażer\MrówkowyKomiwojażer\bin\Debug\MrówkowyKomiwojażer.exe.config
+C:\Users\karol\source\repos\MrówkowyKomiwojażer\MrówkowyKomiwojażer\bin\Debug\MrówkowyKomiwojażer.exe
+C:\Users\karol\source\repos\MrówkowyKomiwojażer\MrówkowyKomiwojażer\bin\Debug\MrówkowyKomiwojażer.pdb
+C:\Users\karol\source\repos\MrówkowyKomiwojażer\MrówkowyKomiwojażer\obj\Debug\MrówkowyKomiwojażer v1.1.csprojAssemblyReference.cache
+C:\Users\karol\source\repos\MrówkowyKomiwojażer\MrówkowyKomiwojażer\obj\Debug\MrówkowyKomiwojażer.Form1.resources
+C:\Users\karol\source\repos\MrówkowyKomiwojażer\MrówkowyKomiwojażer\obj\Debug\MrówkowyKomiwojażer.Properties.Resources.resources
+C:\Users\karol\source\repos\MrówkowyKomiwojażer\MrówkowyKomiwojażer\obj\Debug\MrówkowyKomiwojażer v1.1.csproj.GenerateResource.cache
+C:\Users\karol\source\repos\MrówkowyKomiwojażer\MrówkowyKomiwojażer\obj\Debug\MrówkowyKomiwojażer v1.1.csproj.CoreCompileInputs.cache
+C:\Users\karol\source\repos\MrówkowyKomiwojażer\MrówkowyKomiwojażer\obj\Debug\MrówkowyKomiwojażer.exe
+C:\Users\karol\source\repos\MrówkowyKomiwojażer\MrówkowyKomiwojażer\obj\Debug\MrówkowyKomiwojażer.pdb

@@ -1,0 +1,24 @@
+C:\Users\karol\source\repos\MrówkowyKomiwojażer\AntColonyTests1\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\karol\source\repos\MrówkowyKomiwojażer\AntColonyTests1\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\karol\source\repos\MrówkowyKomiwojażer\AntColonyTests1\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\karol\source\repos\MrówkowyKomiwojażer\AntColonyTests1\bin\Debug\netcoreapp2.0\AntColonyTests.xUnit.deps.json
+C:\Users\karol\source\repos\MrówkowyKomiwojażer\AntColonyTests1\bin\Debug\netcoreapp2.0\AntColonyTests.xUnit.runtimeconfig.json
+C:\Users\karol\source\repos\MrówkowyKomiwojażer\AntColonyTests1\bin\Debug\netcoreapp2.0\AntColonyTests.xUnit.runtimeconfig.dev.json
+C:\Users\karol\source\repos\MrówkowyKomiwojażer\AntColonyTests1\bin\Debug\netcoreapp2.0\AntColonyTests.xUnit.dll
+C:\Users\karol\source\repos\MrówkowyKomiwojażer\AntColonyTests1\bin\Debug\netcoreapp2.0\AntColonyTests.xUnit.pdb
+C:\Users\karol\source\repos\MrówkowyKomiwojażer\AntColonyTests1\bin\Debug\netcoreapp2.0\MrówkowyKomiwojażer.exe
+C:\Users\karol\source\repos\MrówkowyKomiwojażer\AntColonyTests1\bin\Debug\netcoreapp2.0\MrówkowyKomiwojażer.pdb
+C:\Users\karol\source\repos\MrówkowyKomiwojażer\AntColonyTests1\bin\Debug\netcoreapp2.0\MrówkowyKomiwojażer.exe.config
+C:\Users\karol\source\repos\MrówkowyKomiwojażer\AntColonyTests1\obj\Debug\netcoreapp2.0\AntColonyTests.xUnit.csprojAssemblyReference.cache
+C:\Users\karol\source\repos\MrówkowyKomiwojażer\AntColonyTests1\obj\Debug\netcoreapp2.0\AntColonyTests.xUnit.csproj.CoreCompileInputs.cache
+C:\Users\karol\source\repos\MrówkowyKomiwojażer\AntColonyTests1\obj\Debug\netcoreapp2.0\AntColonyTests.xUnit.AssemblyInfoInputs.cache
+C:\Users\karol\source\repos\MrówkowyKomiwojażer\AntColonyTests1\obj\Debug\netcoreapp2.0\AntColonyTests.xUnit.AssemblyInfo.cs
+C:\Users\karol\source\repos\MrówkowyKomiwojażer\AntColonyTests1\obj\Debug\netcoreapp2.0\AntColonyTests.xUnit.csproj.CopyComplete
+C:\Users\karol\source\repos\MrówkowyKomiwojażer\AntColonyTests1\obj\Debug\netcoreapp2.0\AntColonyTests.xUnit.dll
+C:\Users\karol\source\repos\MrówkowyKomiwojażer\AntColonyTests1\obj\Debug\netcoreapp2.0\AntColonyTests.xUnit.pdb
+C:\Users\karol\source\repos\AntColony TSP\AntColonyTests1\obj\Debug\netcoreapp2.0\AntColonyTests.xUnit.csprojAssemblyReference.cache
+C:\Users\karol\source\repos\AntColony TSP\AntColonyTests1\obj\Debug\netcoreapp2.0\AntColonyTests.xUnit.csproj.CoreCompileInputs.cache
+C:\Users\karol\source\repos\AntColony TSP\AntColonyTests1\obj\Debug\netcoreapp2.0\AntColonyTests.xUnit.AssemblyInfoInputs.cache
+C:\Users\karol\source\repos\AntColony TSP\AntColonyTests1\obj\Debug\netcoreapp2.0\AntColonyTests.xUnit.AssemblyInfo.cs
+C:\Users\karol\source\repos\AntColony TSP\AntColonyTests1\obj\Debug\netcoreapp2.0\AntColonyTests.xUnit.dll
+C:\Users\karol\source\repos\AntColony TSP\AntColonyTests1\obj\Debug\netcoreapp2.0\AntColonyTests.xUnit.pdb
