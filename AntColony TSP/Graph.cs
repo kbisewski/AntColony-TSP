@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace AntColonyTSP
 {
-    class Graph
+    public class Graph
     {
         //public Dictionary<Point, Edge[]> graph = new Dictionary<Point, Edge[]>();
         public List<Point> points;
@@ -33,25 +33,6 @@ namespace AntColonyTSP
 
                 }
             }
-            /*
-            int edgesFromPoint = amountOfPoints - 1;
-            for (int i = 0; i < amountOfPoints; i++)
-            {
-                Point point = points[i];
-
-                Edge[] edges = new Edge[edgesFromPoint];
-                int index = 0;
-                for (int j = 0; j < amountOfPoints; j++)
-                {
-                    Point secondPoint = points[j];
-                    if (!secondPoint.Equals(point))
-                    {
-                        edges[index++] = new Edge(point, points[j], initPheromone, remainingPheromone);
-                    }
-                }
-                graph.Add(point, edges);
-            }
-            */
         }
 
         private bool exist(Edge edge)

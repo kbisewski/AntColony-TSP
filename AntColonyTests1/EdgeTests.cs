@@ -1,29 +1,33 @@
 using System;
 using System.Drawing;
 using Xunit;
-using AntColony;
+using AntColonyTSP;
 
 namespace AntColonyTests1
 {
     public class EdgeTests
     {
-        [Fact]
-        public void PheromoneEvaporateTest()
+        [Theory]
+        [InlineData(50, 0.5, 25)]
+        [InlineData(50, 1, 50)]
+        [InlineData(50, 0, 0)]
+        [InlineData(80, 0.1, 8)]
+        public void updatePheromone_PheromoneEvaporateTest(double initPher, double remainingPherPerc, double remained)
         {
             //Arrange
             Point a = new Point(0, 0);
             Point b = new Point(5, 5);
-            edgeTests = new Edge(a, b, 50, 0.5);
+            edge = new Edge(a, b, initPher, remainingPherPerc);
 
             //Act
-            edgeTests.updatePheromone();
+            edge.updatePheromone();
 
             //Assert
-            Assert.Equal(25, edgeTests.pheromone);
+            Assert.Equal(remained, edge.pheromone);
         }
 
         #region CONFIGURATION
-        Edge edgeTests;
+        Edge edge;
         #endregion
 
 

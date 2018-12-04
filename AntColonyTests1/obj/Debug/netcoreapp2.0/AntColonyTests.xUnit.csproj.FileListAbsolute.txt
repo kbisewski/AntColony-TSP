@@ -22,3 +22,15 @@ C:\Users\karol\source\repos\AntColony TSP\AntColonyTests1\obj\Debug\netcoreapp2.
 C:\Users\karol\source\repos\AntColony TSP\AntColonyTests1\obj\Debug\netcoreapp2.0\AntColonyTests.xUnit.AssemblyInfo.cs
 C:\Users\karol\source\repos\AntColony TSP\AntColonyTests1\obj\Debug\netcoreapp2.0\AntColonyTests.xUnit.dll
 C:\Users\karol\source\repos\AntColony TSP\AntColonyTests1\obj\Debug\netcoreapp2.0\AntColonyTests.xUnit.pdb
+C:\Users\karol\source\repos\AntColony TSP\AntColonyTests1\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\karol\source\repos\AntColony TSP\AntColonyTests1\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\karol\source\repos\AntColony TSP\AntColonyTests1\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\karol\source\repos\AntColony TSP\AntColonyTests1\bin\Debug\netcoreapp2.0\AntColonyTests.xUnit.deps.json
+C:\Users\karol\source\repos\AntColony TSP\AntColonyTests1\bin\Debug\netcoreapp2.0\AntColonyTests.xUnit.runtimeconfig.json
+C:\Users\karol\source\repos\AntColony TSP\AntColonyTests1\bin\Debug\netcoreapp2.0\AntColonyTests.xUnit.runtimeconfig.dev.json
+C:\Users\karol\source\repos\AntColony TSP\AntColonyTests1\bin\Debug\netcoreapp2.0\AntColonyTests.xUnit.dll
+C:\Users\karol\source\repos\AntColony TSP\AntColonyTests1\bin\Debug\netcoreapp2.0\AntColonyTests.xUnit.pdb
+C:\Users\karol\source\repos\AntColony TSP\AntColonyTests1\bin\Debug\netcoreapp2.0\AntColonyTSP.exe
+C:\Users\karol\source\repos\AntColony TSP\AntColonyTests1\bin\Debug\netcoreapp2.0\AntColonyTSP.pdb
+C:\Users\karol\source\repos\AntColony TSP\AntColonyTests1\bin\Debug\netcoreapp2.0\AntColonyTSP.exe.config
+C:\Users\karol\source\repos\AntColony TSP\AntColonyTests1\obj\Debug\netcoreapp2.0\AntColonyTests.xUnit.csproj.CopyComplete

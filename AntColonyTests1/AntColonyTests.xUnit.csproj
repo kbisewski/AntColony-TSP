@@ -15,7 +15,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\AntColony TSP\AntColony TSP.csproj" />
-    <ProjectReference Include="..\MrówkowyKomiwojażer\AntColony TSP.csproj" />
   </ItemGroup>
 
 </Project>

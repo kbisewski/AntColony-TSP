@@ -5729,7 +5729,6 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "AntColony TSP >= 1.0.0",
-      "C:\\Users\\karol\\source\\repos\\AntColony TSP\\MrówkowyKomiwojażer\\AntColony TSP.csproj",
       "Microsoft.NET.Test.Sdk >= 15.7.0",
       "Microsoft.NETCore.App >= 2.0.0",
       "xunit >= 2.3.1",
@@ -5768,9 +5767,6 @@
           "projectReferences": {
             "C:\\Users\\karol\\source\\repos\\AntColony TSP\\AntColony TSP\\AntColony TSP.csproj": {
               "projectPath": "C:\\Users\\karol\\source\\repos\\AntColony TSP\\AntColony TSP\\AntColony TSP.csproj"
-            },
-            "C:\\Users\\karol\\source\\repos\\AntColony TSP\\MrówkowyKomiwojażer\\AntColony TSP.csproj": {
-              "projectPath": "C:\\Users\\karol\\source\\repos\\AntColony TSP\\MrówkowyKomiwojażer\\AntColony TSP.csproj"
             }
           }
         }
@@ -5809,16 +5805,5 @@
         "warn": true
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1105",
-      "level": "Error",
-      "message": "Unable to find project information for 'C:\\Users\\karol\\source\\repos\\AntColony TSP\\MrówkowyKomiwojażer\\AntColony TSP.csproj'. The project file may be invalid or missing targets required for restore.",
-      "libraryId": "C:\\Users\\karol\\source\\repos\\AntColony TSP\\MrówkowyKomiwojażer\\AntColony TSP.csproj",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v2.0"
-      ]
-    }
-  ]
+  }
 }

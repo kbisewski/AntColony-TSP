@@ -1032,9 +1032,9 @@
           "Microsoft.NET.Test.Sdk": "15.7.0"
         }
       },
-      "MrówkowyKomiwojażer v1.1/1.0.0": {
+      "AntColony TSP/1.0.0": {
         "runtime": {
-          "MrówkowyKomiwojażer.exe": {}
+          "AntColonyTSP.exe": {}
         }
       }
     }
@@ -1584,7 +1584,7 @@
       "path": "xunit.runner.visualstudio/2.3.1",
       "hashPath": "xunit.runner.visualstudio.2.3.1.nupkg.sha512"
     },
-    "MrówkowyKomiwojażer v1.1/1.0.0": {
+    "AntColony TSP/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
