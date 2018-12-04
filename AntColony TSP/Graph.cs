@@ -9,7 +9,6 @@ namespace AntColonyTSP
 {
     public class Graph
     {
-        //public Dictionary<Point, Edge[]> graph = new Dictionary<Point, Edge[]>();
         public List<Point> points;
         public List<Edge> edges = new List<Edge>();
         public int amountOfPoints { get { return points.Count(); } }

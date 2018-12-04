@@ -60,11 +60,11 @@ namespace AntColonyTSP
         private void doCycle()
         {
 
-            for (int i = 0; i < ants.Length; i++)
+            Parallel.ForEach(ants, ant =>
             {
-                List<Edge> visitedEdges = ants[i].doCycle();
+                List<Edge> visitedEdges = ant.doCycle();
                 checkWay(visitedEdges);
-            }
+            });
         }
 
         private void checkWay(List<Edge> visitedEdges)
@@ -89,8 +89,8 @@ namespace AntColonyTSP
 
         private void drawBestWay()
         {
-            lengthValueLabel.Text = shortestWayLength + "";
-            panel.Refresh();
+                lengthValueLabel.Text = shortestWayLength + "";
+                panel.Refresh();
         }
 
         private void updatePheromoneAfterCycle()
@@ -145,7 +145,7 @@ namespace AntColonyTSP
             Pen pen = new Pen(Color.FromArgb(150, 0, 0, 0), 1);
             e.Graphics.DrawLine(pen, a, b);
         }
-        
+
         private void Panel_Paint(object sender, PaintEventArgs e)
         {
             panel.Invalidate();
@@ -154,7 +154,7 @@ namespace AntColonyTSP
                 drawLine(edge.a, edge.b, e);
             }
         }
-        
+
         private void panel_MouseMove(object sender, MouseEventArgs e)
         {
             int x = MousePosition.X - this.Location.X - panel.Location.X - 7;
@@ -201,7 +201,9 @@ namespace AntColonyTSP
                 shortestWayLength = -1;
                 lengthValueLabel.Text = 0 + "";
 
-                go();
+                Thread antsThread = new Thread(go);
+                antsThread.Start();
+                //go();
                 panel.Refresh();
                 button1.Enabled = true;
                 antsAreGoing = false;

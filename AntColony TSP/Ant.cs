@@ -74,28 +74,28 @@ namespace AntColonyTSP
 
         private Edge[] getPosibleEdges(Edge[] edges, Point[] tabu)
         {
-            List<Edge> posibleEdges = new List<Edge>();
+            List<Edge> possibleEdges = new List<Edge>();
             for (int i = 0; i < edges.Length; i++)
             {
                 if (!tabu.Contains(edges[i].getAnotherPoint(currentPoint)))
                 {
-                    posibleEdges.Add(edges[i]);
+                    possibleEdges.Add(edges[i]);
                 }
             }
-            return posibleEdges.ToArray<Edge>();
+            return possibleEdges.ToArray<Edge>();
         }
 
-        private Edge randomEdge(Edge[] posibleEdges, double[] edgesProbability)
+        private Edge randomEdge(Edge[] possibleEdges, double[] edgesProbability)
         {
             double sum = 0;
             double randNum = r.NextDouble();
-            Edge choice = posibleEdges[0];  //----------------------
+            Edge choice = possibleEdges[0];
             for (int i = 0; i < edgesProbability.Length; i++)
             {
                 sum += edgesProbability[i];
                 if (randNum < sum)
                 {
-                    choice = posibleEdges[i];
+                    choice = possibleEdges[i];
                     break;
                 }
             }
